@@ -1,6 +1,6 @@
 # HAR-001DataOrganization
 Script_DataOrganization
-1.	Search the folders with subject ID such 001-01, 001-08, ….
+1.	Search the folders with subject ID such 001-01, 001-08, ….  
 2.	Visit each folder and find the files that need to be averaged. There is a log.csv which records if one certain file has been calculated or not.
 3.	Correct the data format in each file, because for some reasons, the data in several rows at the end does not has the correct separator. 
 4.	Run Noam’s Macro. It fetches the TMS and CES threshold from the SubjectThreshold.csv file
